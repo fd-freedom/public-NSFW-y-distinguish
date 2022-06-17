@@ -2,15 +2,15 @@
 
 ### 识别效果
 
-![image](temp/4.png)
+![image](image/4.png)
 
-![image](temp/1.png)
+![image](image/1.png)
 
 推荐SFW 0.98 色情 NSFW 0.015
 
-![image](temp/2.png)
+![image](image/2.png)
 
-![image](temp/3.png)
+![image](image/3.png)
 
 推荐SFW 0.00 色情 NSFW 0.99 为色情图片
 
