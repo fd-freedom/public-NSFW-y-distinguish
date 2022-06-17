@@ -97,9 +97,6 @@ ENV/
 .ropeproject
 
 # We dont want images
-*.jpg
-*.png
-*.jpeg
 *.zip
 *.gz
 *.xz
